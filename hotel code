@@ -1,12 +1,4 @@
-//---------------------------------------------------
-//Name: Christelle Mbemba
-//Course-Sectio: CS 155-section
-//Project: #4
-// Due date: 16/11/2022
-//Resources: notes from class, tutoring
-//Description:  the Program is simulating a booking system, the user can book from 
-//				three different Hotel. the program will print an output receipt
-//-----------------------------------------------------
+//
 
 #include <iostream>
 #include <fstream>
